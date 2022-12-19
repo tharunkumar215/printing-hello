@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: |
-         - chmod +x ./meena.sh
-         - ./meena.sh
+         - chmod +x printing-hello/meena.sh
+         - printing-hello/meena.sh
          
       
